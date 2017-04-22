@@ -1,6 +1,6 @@
 SJ Wx App Help:
 
-Please reference the readme below for guidance on SJ Wx.  For all other questions, contact me at SJWxApp@gmail.com
+Please reference the readme below for guidance on SJ Wx.  For all other questions, contact me at SJWxApp@gmail.com <br>
 -vapor
 
 <strong>App Mission:</strong><br>
