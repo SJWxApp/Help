@@ -4,7 +4,7 @@ SJ Wx App Help:
 Provide fast, intuitive, and smooth pictorial weather data that fighter aircrew care about.
 
 <strong>Overview:</strong><br>
-Powered By https://WindyTV.com
+Powered By https://WindyTV.com <br>
 The app initializes centered on Cherry Point NKT with the Wind overlay selected.  Six blue markers are visible  - Seymour Johnson, Kinston, Cherry Point, Shaw, Oceana, and Langley.  METARs and TAFs are automatically downloadeded for each marker.  To view the Metar/Taf for a base, simply touch the base's marker.  To see the weather parameters at a position on the map, simply touch the desired position of the map.
 
 
@@ -12,7 +12,7 @@ The app initializes centered on Cherry Point NKT with the Wind overlay selected.
 As mentioned, the METARs/TAFs will be automatically gathered at initialization.  If your device is still in the process of gathering them the "METAR/TAF" button will be greyed out and disabled ("METAR/TAF" button visible after touching the white arrow in the bottom left of the screen). If the button is black (not grey), touching it will automatically regather the METARs/TAFs for the base markers and also update the sunrise/sunset times.
 
 <strong>Sunset/Sunrise:</strong><br>
-Powered by Suncalc - https://github.com/mourner/suncalc
+Powered by Suncalc - https://github.com/mourner/suncalc <br>
 Stay with me here....no matter where you are in the world, sunrise and sunset are calculated for Seymour Johnson, AFB.  The time displayed, however, is shown in local time WHERE YOUR PHONE IS RIGHT NOW.  For example, if you're in Alabama viewing the app, you need to add 1 hour to the sunrise and sunset to get the sunrise/sunset time for GSB.  This will be improved in future iterations.
 
 <strong>Changing Overlay:</strong><br>
